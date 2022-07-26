@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/stuff/static/css/main.358cc553.css",
+    "main.js": "/stuff/static/js/main.76de064b.js",
+    "static/js/787.bcf07d67.chunk.js": "/stuff/static/js/787.bcf07d67.chunk.js",
+    "static/media/Landsend Resort.JPG": "/stuff/static/media/Landsend Resort.23a5bb05f90035fe20ac.JPG",
+    "static/media/Cubes-Grey-Seamless-Pattern-For-Website-Background.jpg": "/stuff/static/media/Cubes-Grey-Seamless-Pattern-For-Website-Background.6287137d91854476e9db.jpg",
+    "static/media/site_transparent_logo.jpg": "/stuff/static/media/site_transparent_logo.adb99f82a81d163ed897.jpg",
+    "index.html": "/stuff/index.html",
+    "main.358cc553.css.map": "/stuff/static/css/main.358cc553.css.map",
+    "main.76de064b.js.map": "/stuff/static/js/main.76de064b.js.map",
+    "787.bcf07d67.chunk.js.map": "/stuff/static/js/787.bcf07d67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.358cc553.css",
+    "static/js/main.76de064b.js"
+  ]
+}
