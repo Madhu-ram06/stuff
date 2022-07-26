@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Madhu-ram06.github.io/Traveliva_Internship",
+  "homepage": "http://Madhu-ram06.github.io/stuff",
   "name": "traveliva",
   "version": "0.1.0",
   "private": true,
@@ -36,10 +36,7 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "devDependencies": {
-      "gh-pages": "^2.1."
-    }
+    ]
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
