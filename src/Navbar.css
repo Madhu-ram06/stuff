@@ -22,12 +22,12 @@
   padding-top: 1.5%;
 
 }
-span{
+#nv{
     margin-right: 17%;
     
 
 }
-span:hover{
+#nv:hover{
     cursor: pointer;
 }
 .buttons{

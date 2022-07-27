@@ -8,12 +8,12 @@ const Navbar=()=>  {
                  <img className='logo' src={logo} alt="logo"></img>
              <nav className='navcontainer'>
                
-                <span>Home</span>
-                <span>About</span>
-                <span>Features</span>
-                <span>Blog</span>
-                <span>Contact</span>
-                <span>Booking</span>
+                <span id="nv">Home</span>
+                <span id="nv">About</span>
+                <span id="nv">Features</span>
+                <span id="nv">Blog</span>
+                <span id="nv">Contact</span>
+                <span id="nv">Booking</span>
                 </nav>
                 <div className='buttons'>
                 <button className='sign-in'>Sign in</button>
