@@ -1,0 +1,377 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@600&display=swap');
+
+#first{
+    background-color: #c0def2;
+    width: 100vw;
+    height:760px;
+
+  
+}
+#part1{
+    width: 50%;
+    position: relative;
+}
+#part2{
+    width: 45%;
+   margin-top: 5%;
+  position: absolute;
+  right: 0;
+}
+#part2 img{
+    border-top-left-radius: 220px;
+}
+#wrap{
+width: fit-content;
+background-color: #e6f1f5;
+padding: 5px;
+border-radius: 12px;
+position: absolute;
+margin-top: 20%;
+left: 25%;
+
+
+}
+#dreams{
+margin-top: 29%;
+left: 25%;
+position: absolute;
+
+
+}
+#d{
+ 
+    font-size: 70px;
+font-family:'Crimson Text', serif;
+color: rgb(44, 43, 43);
+font-weight:bold;
+}
+
+#second{
+    width: 100%;
+    height: 820px;
+    padding: 20px;
+    position: relative;
+}
+#hotel{
+    background-color: #120647;
+    padding: 6px;
+    border-radius: 17px;
+    position: absolute;
+    left: 48%;
+    top: 8%;
+    color: white;
+    font-size: 15px;
+    width: 130px;
+    
+}
+#tt{
+    position: absolute;
+   left: 36%;
+    top:15%;
+    font-size: 40px;
+    font-family:'Crimson Text', serif;
+    font-weight: bolder;
+}
+#b{
+    position: absolute;
+   left: 37%;
+    top:25%;
+    font-size: 20px;
+    color:grey;
+    font-family:'Crimson Text', serif;
+}
+
+#col{
+   
+    width: 23%;
+    
+    border-radius: 14px;
+border:1px solid grey;
+position: relative;
+  
+}
+
+#card-container{
+  display: flex;
+  flex-direction: row;
+width: 80vw;
+overflow-wrap: normal;
+justify-content: space-between;
+left: 10%;
+position: absolute;
+bottom: 9%;
+
+
+    
+}
+#money{
+    width:fit-content;
+    background-color: #120647;
+    padding: 12px;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    position:absolute;
+    bottom:0;
+    right: 0;
+    border-bottom-right-radius: 14px;
+    border-top-left-radius: 14px;
+}
+
+#third{
+    width: 100%;
+    height: 820px;
+    padding: 20px;
+    position: relative;
+    background-color: #fbfcfe;
+   
+}
+#card2-container{
+    display: flex;
+    flex-direction: row;
+  width: 80vw;
+  overflow-wrap: normal;
+  justify-content: space-between;
+  left: 10%;
+  position: absolute;
+  bottom: 15%;
+  
+
+  
+}
+#col1{
+   
+    width: 25%;
+    height: 300px;
+    border-radius: 14px;
+border:2px solid rgb(153, 150, 150);
+position: relative;
+padding: 20px;
+
+  
+}
+#fourth{
+    width: 100%;
+    height: 820px;
+    display: flex;
+    flex-direction: row;
+    padding: 40px;
+    
+}
+#fifth{
+    width: 100%;
+    height: 820px;
+    display: flex;
+    flex-direction: row;
+    padding: 40px;
+    
+}
+#aboutImg1{
+    position: absolute;
+    top:15%;
+
+}
+#aboutImg2{
+    position: absolute;
+    top:15%;
+   right: 25%;
+    
+}
+#section1{
+    width: 50%;
+   
+   padding: 40px;
+    
+    height: 600px;
+    position: relative;
+  
+}
+#section2{
+    width: 50%;
+    position: relative;
+   
+    right: 0;
+    height: 600px;
+    padding: 40px;
+    top:15%;
+    
+    
+}
+#traveliva{
+   
+        background-color: #120647;
+        padding: 6px;
+        border-radius: 17px;
+        position: absolute;
+       
+        top: 8%;
+        color: white;
+        font-size: 15px;
+        width: 130px;
+}
+#tta{
+    position: absolute;
+   
+    top:15%;
+    font-size: 40px;
+    font-family:'Crimson Text', serif;
+    font-weight: bolder;
+}
+#b1{
+    position: absolute;
+
+     top:20%;
+     font-size: 18px;
+     color:grey;
+     font-family:'Crimson Text', serif;
+     line-height: 1.8;
+}
+li::marker{
+    font-size: 1.5rem;
+    
+}
+li{
+    font-weight: 500;
+}
+#button{
+    width: 130px;
+    height: 50px;
+    position: absolute;
+    bottom: 20%;
+    color: rgb(52, 203, 125);
+    padding: 6px;
+    background-color: #120647;
+    font-size: 16px;
+    border-radius: 8px;
+}
+#sixth{
+    width: 100%;
+    height: 700px;
+    padding: 20px;
+    position: relative;
+    
+   
+}
+#tt2{
+    position: absolute;
+    left: 15%;
+     top:15%;
+     font-size: 40px;
+     font-family:'Crimson Text', serif;
+     font-weight: bolder;
+}
+#b2{
+    position: absolute;
+   left: 15%;
+    top:22%;
+    font-size: 20px;
+    color:grey;
+    font-family:'Crimson Text', serif;
+}
+#arrows{
+    position: absolute;
+    right:20%;
+    top:30%;
+}
+#card-container3{
+    display: flex;
+    flex-direction: row;
+  width: 80vw;
+  overflow-wrap: normal;
+  justify-content: space-between;
+  left: 10%;
+  position: absolute;
+  bottom: 9%;
+}
+  #col3{
+    
+   
+        width: 25%;
+        height: 300px;
+        padding: 14px;
+    border:1px solid grey;
+    position: relative;
+      }
+  #seventh{
+    width: 100%;
+    height: 820px;
+    padding: 20px;
+    position: relative;
+    
+   
+}
+#col7{
+    
+   border-radius: 4px;
+    width: 26%;
+    height: 480px;
+    
+
+position: relative;
+  }
+  #b7{
+    position: absolute;
+   left: 15%;
+    bottom:20%;
+    font-size: 15px;
+    color:grey;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#sub-article{
+    width: 100%;
+    height: 100%;
+  
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+#sub-cards1{
+    width: 100%;
+    height: 33%;
+    position: absolute;
+    top:0;
+    
+    
+}
+#sub-cards2{
+    width: 100%;
+    height: 33%;
+    position: absolute;
+    top:33%;
+
+
+}
+#sub-cards3{
+    width: 100%;
+    height: 33%;
+    position: absolute;
+    
+    bottom: 0;
+}
+#articleimg{
+    position: absolute;
+    width: 30%;
+    
+    padding: 5px;
+    right: 0;
+}
+#eighth{
+    background-color: rgb(244, 250, 252);
+    width: 100%;
+    height: 400px;
+    position: relative;
+}
+#book{
+    border: none;
+  background-color: #120647;
+  color:white;
+  border-radius: 4px;
+   width: 130px;
+   height:50px;
+   display: inline;
+   position: absolute;
+   bottom: 30%;
+   left:20%;
+
+   
+    
+}

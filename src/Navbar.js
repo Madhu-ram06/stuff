@@ -1,6 +1,7 @@
 import React from 'react'
 import logo from './site_transparent_logo.jpg'
 
+import {Link} from "react-router-dom"
 import './Navbar.css'
 const Navbar=()=>  {
     return(
@@ -8,8 +9,8 @@ const Navbar=()=>  {
                  <img className='logo' src={logo} alt="logo"></img>
              <nav className='navcontainer'>
                
-                <span id="nv">Home</span>
-                <span id="nv">About</span>
+                <Link id="nv" to='/'>Home</Link>
+                <Link id="nv" to='/about'>About</Link>
                 <span id="nv">Features</span>
                 <span id="nv">Blog</span>
                 <span id="nv">Contact</span>

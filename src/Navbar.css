@@ -6,6 +6,7 @@
     width:100vw;
     height:90px;
     position: relative;
+    background-color: transparent;
 }
 .navcontainer{
     position: absolute;
@@ -24,11 +25,14 @@
 }
 #nv{
     margin-right: 17%;
+    text-decoration: none;
+    color: black;
     
 
 }
 #nv:hover{
     cursor: pointer;
+    text-decoration: wavy;
 }
 .buttons{
     display: inline;
