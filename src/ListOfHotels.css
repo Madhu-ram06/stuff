@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lily+Script+One&family=Overlock:wght@900&family=Source+Serif+Pro&display=swap');
+#partA{
+    width: 100%;
+    height:700px;
+  
+    position: relative;
+}
+#textblock{
+        width: 30%;
+        height: 600px;
+       
+       position: relative;
+       left: 20%;
+        padding: 16px;
+        text-align:justify;
+}
+#textblock1{
+    width: 30%;
+    height: 600px;
+   
+   position: relative;
+   left: 55%;
+    padding: 16px;
+    text-align:justify;
+}
+#heading{
+    font-size: 45px;
+    font-family: 'Abril Fatface', cursive;
+font-family: 'Lily Script One', cursive;
+font-family: 'Overlock', cursive;
+font-family: 'Source Serif Pro', serif;
+font-weight: bold;
+position: absolute;
+top:14%;
+
+}
+#partA-text{
+    position: absolute;
+    top: 40%;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#status{
+    font-size: 12px;
+    font-weight: bold;
+    color: #767676;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 5px;
+  
+ 
+}
+#see{
+    border: none;
+  background-color: #120647;
+  color:white;
+  border-radius: 4px;
+   width: 160px;
+   height:50px;
+   display: inline;
+   font-size: 12px;
+   margin-left: 45%;
+
+   
+    
+}

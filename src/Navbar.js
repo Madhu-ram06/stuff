@@ -11,7 +11,7 @@ const Navbar=()=>  {
                
                 <Link id="nv" to='/'>Home</Link>
                 <Link id="nv" to='/about'>About</Link>
-                <span id="nv">Features</span>
+                <Link id="nv" to='/listofhotels'>Hotels</Link>
                 <span id="nv">Blog</span>
                 <span id="nv">Contact</span>
                 <span id="nv">Booking</span>

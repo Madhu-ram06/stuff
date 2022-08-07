@@ -1,6 +1,7 @@
 //import AboutUs from './AboutUs';
 import Navbar from './Navbar';
 import Home from './Home';
+import ListOfHotels from './ListOfHotels';
 import './App.css';
 import {BrowserRouter as Router,Route,Routes} from 'react-router-dom';
 import AboutUs from './AboutUs';
@@ -14,6 +15,7 @@ function App() {
     <Routes>
       <Route  path='/' element={<Home/>}/>
       <Route path='/about' element={<AboutUs/>}/>
+      <Route path='/listofhotels' element={<ListOfHotels/>} />
       
       
     </Routes>
