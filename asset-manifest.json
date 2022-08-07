@@ -1,18 +1,32 @@
 {
   "files": {
-    "main.css": "/stuff/static/css/main.fd7ab021.css",
-    "main.js": "/stuff/static/js/main.9ee40f3d.js",
+    "main.css": "/stuff/static/css/main.febee20d.css",
+    "main.js": "/stuff/static/js/main.738ca78e.js",
     "static/js/787.bcf07d67.chunk.js": "/stuff/static/js/787.bcf07d67.chunk.js",
     "static/media/vlcsnap-2020-02-13-18h06m58s399.png": "/stuff/static/media/vlcsnap-2020-02-13-18h06m58s399.0fa1277bc87771368470.png",
+    "static/media/home_1.jpg": "/stuff/static/media/home_1.d7a2765460b3511caf53.jpg",
+    "static/media/Landsend Resort.JPG": "/stuff/static/media/Landsend Resort.23a5bb05f90035fe20ac.JPG",
+    "static/media/How a single day-use hotel.jpg": "/stuff/static/media/How a single day-use hotel.ff5307096f7f4b60bacb.jpg",
+    "static/media/article33.jpg": "/stuff/static/media/article33.a5db7f4cd2b738f6d32d.jpg",
+    "static/media/The Willow Resort.jpg": "/stuff/static/media/The Willow Resort.b5a08e6dff91ab29afe4.jpg",
+    "static/media/article5.jpeg": "/stuff/static/media/article5.0dbae7631e5f99bdd1d3.jpeg",
+    "static/media/list of the 20 COVID-19.jpg": "/stuff/static/media/list of the 20 COVID-19.0f389848d5f7351d85be.jpg",
+    "static/media/Jungle Beat.jpg": "/stuff/static/media/Jungle Beat.36b4200e647085084b9d.jpg",
+    "static/media/Casa Lake Resort.jpg": "/stuff/static/media/Casa Lake Resort.af00d32adaac8a7a1666.jpg",
+    "static/media/AboutImg1.jpg": "/stuff/static/media/AboutImg1.418cbd5e44fcbaf547dc.jpg",
+    "static/media/AboutImg2.jpg": "/stuff/static/media/AboutImg2.efcbb9d077fe2d562984.jpg",
+    "static/media/article4.jpg": "/stuff/static/media/article4.5490cb3dd16614d592e5.jpg",
     "static/media/Cubes-Grey-Seamless-Pattern-For-Website-Background.jpg": "/stuff/static/media/Cubes-Grey-Seamless-Pattern-For-Website-Background.6287137d91854476e9db.jpg",
+    "static/media/book.jpg": "/stuff/static/media/book.73169347b22b0af79563.jpg",
+    "static/media/location.png": "/stuff/static/media/location.fe81c3c0d63f2eb4dceb.png",
     "static/media/site_transparent_logo.jpg": "/stuff/static/media/site_transparent_logo.adb99f82a81d163ed897.jpg",
     "index.html": "/stuff/index.html",
-    "main.fd7ab021.css.map": "/stuff/static/css/main.fd7ab021.css.map",
-    "main.9ee40f3d.js.map": "/stuff/static/js/main.9ee40f3d.js.map",
+    "main.febee20d.css.map": "/stuff/static/css/main.febee20d.css.map",
+    "main.738ca78e.js.map": "/stuff/static/js/main.738ca78e.js.map",
     "787.bcf07d67.chunk.js.map": "/stuff/static/js/787.bcf07d67.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd7ab021.css",
-    "static/js/main.9ee40f3d.js"
+    "static/css/main.febee20d.css",
+    "static/js/main.738ca78e.js"
   ]
 }
