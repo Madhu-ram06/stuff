@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/stuff/static/css/main.febee20d.css",
-    "main.js": "/stuff/static/js/main.b50f1566.js",
+    "main.css": "/stuff/static/css/main.321ae5de.css",
+    "main.js": "/stuff/static/js/main.84f268fd.js",
     "static/js/787.bcf07d67.chunk.js": "/stuff/static/js/787.bcf07d67.chunk.js",
     "static/media/vlcsnap-2020-02-13-18h06m58s399.png": "/stuff/static/media/vlcsnap-2020-02-13-18h06m58s399.0fa1277bc87771368470.png",
     "static/media/home_1.jpg": "/stuff/static/media/home_1.d7a2765460b3511caf53.jpg",
@@ -13,20 +13,23 @@
     "static/media/list of the 20 COVID-19.jpg": "/stuff/static/media/list of the 20 COVID-19.0f389848d5f7351d85be.jpg",
     "static/media/Jungle Beat.jpg": "/stuff/static/media/Jungle Beat.36b4200e647085084b9d.jpg",
     "static/media/Casa Lake Resort.jpg": "/stuff/static/media/Casa Lake Resort.af00d32adaac8a7a1666.jpg",
+    "static/media/grass land resort.jpg": "/stuff/static/media/grass land resort.210eb548f00fac7122a4.jpg",
+    "static/media/candle lighr resort.png": "/stuff/static/media/candle lighr resort.254ee6316a2ac0a419cd.png",
     "static/media/AboutImg1.jpg": "/stuff/static/media/AboutImg1.418cbd5e44fcbaf547dc.jpg",
     "static/media/AboutImg2.jpg": "/stuff/static/media/AboutImg2.efcbb9d077fe2d562984.jpg",
     "static/media/article4.jpg": "/stuff/static/media/article4.5490cb3dd16614d592e5.jpg",
+    "static/media/bamboo-resort.jpg": "/stuff/static/media/bamboo-resort.5490cb3dd16614d592e5.jpg",
     "static/media/Cubes-Grey-Seamless-Pattern-For-Website-Background.jpg": "/stuff/static/media/Cubes-Grey-Seamless-Pattern-For-Website-Background.6287137d91854476e9db.jpg",
     "static/media/book.jpg": "/stuff/static/media/book.73169347b22b0af79563.jpg",
     "static/media/location.png": "/stuff/static/media/location.fe81c3c0d63f2eb4dceb.png",
     "static/media/site_transparent_logo.jpg": "/stuff/static/media/site_transparent_logo.adb99f82a81d163ed897.jpg",
     "index.html": "/stuff/index.html",
-    "main.febee20d.css.map": "/stuff/static/css/main.febee20d.css.map",
-    "main.b50f1566.js.map": "/stuff/static/js/main.b50f1566.js.map",
+    "main.321ae5de.css.map": "/stuff/static/css/main.321ae5de.css.map",
+    "main.84f268fd.js.map": "/stuff/static/js/main.84f268fd.js.map",
     "787.bcf07d67.chunk.js.map": "/stuff/static/js/787.bcf07d67.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.febee20d.css",
-    "static/js/main.b50f1566.js"
+    "static/css/main.321ae5de.css",
+    "static/js/main.84f268fd.js"
   ]
 }
