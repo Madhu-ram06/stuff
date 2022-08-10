@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/stuff/static/css/main.321ae5de.css",
-    "main.js": "/stuff/static/js/main.84f268fd.js",
+    "main.css": "/stuff/static/css/main.2869edd6.css",
+    "main.js": "/stuff/static/js/main.dd774996.js",
     "static/js/787.bcf07d67.chunk.js": "/stuff/static/js/787.bcf07d67.chunk.js",
     "static/media/vlcsnap-2020-02-13-18h06m58s399.png": "/stuff/static/media/vlcsnap-2020-02-13-18h06m58s399.0fa1277bc87771368470.png",
     "static/media/home_1.jpg": "/stuff/static/media/home_1.d7a2765460b3511caf53.jpg",
@@ -20,16 +20,17 @@
     "static/media/article4.jpg": "/stuff/static/media/article4.5490cb3dd16614d592e5.jpg",
     "static/media/bamboo-resort.jpg": "/stuff/static/media/bamboo-resort.5490cb3dd16614d592e5.jpg",
     "static/media/Cubes-Grey-Seamless-Pattern-For-Website-Background.jpg": "/stuff/static/media/Cubes-Grey-Seamless-Pattern-For-Website-Background.6287137d91854476e9db.jpg",
+    "static/media/iconstack.jpg": "/stuff/static/media/iconstack.fc9960ab0dcd1a3a7988.jpg",
     "static/media/book.jpg": "/stuff/static/media/book.73169347b22b0af79563.jpg",
     "static/media/location.png": "/stuff/static/media/location.fe81c3c0d63f2eb4dceb.png",
     "static/media/site_transparent_logo.jpg": "/stuff/static/media/site_transparent_logo.adb99f82a81d163ed897.jpg",
     "index.html": "/stuff/index.html",
-    "main.321ae5de.css.map": "/stuff/static/css/main.321ae5de.css.map",
-    "main.84f268fd.js.map": "/stuff/static/js/main.84f268fd.js.map",
+    "main.2869edd6.css.map": "/stuff/static/css/main.2869edd6.css.map",
+    "main.dd774996.js.map": "/stuff/static/js/main.dd774996.js.map",
     "787.bcf07d67.chunk.js.map": "/stuff/static/js/787.bcf07d67.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.321ae5de.css",
-    "static/js/main.84f268fd.js"
+    "static/css/main.2869edd6.css",
+    "static/js/main.dd774996.js"
   ]
 }
