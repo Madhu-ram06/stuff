@@ -13,8 +13,10 @@ const Navbar=()=>  {
                 <Link id="nv" to='/about'>About</Link>
                 <Link id="nv" to='/listofhotels'>Hotels</Link>
                 <span id="nv">Blog</span>
-                <span id="nv">Contact</span>
+                
                 <span id="nv">Booking</span>
+                <Link id="nv" to='/resortvariants'>Resorts</Link>
+                
                 </nav>
                 <div className='buttons'>
                 <button className='sign-in'>Sign in</button>
