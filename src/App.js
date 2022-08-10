@@ -13,7 +13,7 @@ function App() {
     <Router>
     <div className="App">
     <Navbar />
-    <Routes basename='/home'>
+    <Routes>
     <Route path="/" element={<Navigate to="/home" />} />
     <Route path="/home" element={<Home />} />
     <Route path='/about' element={<AboutUs/>}/>
