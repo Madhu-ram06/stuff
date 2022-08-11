@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@600&display=swap');
+#resort-container{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
 #ddd{
  
     font-size: 70px;
@@ -9,6 +14,7 @@ font-weight:bold;
 #one{
     width:100%;
     height:750px;
+   
  
    
 }
@@ -29,4 +35,102 @@ font-weight:bold;
     background-color: #120647;
     font-size: 14px;
     border-radius: 8px;
+
 }
+#two{
+    width:100%;
+    height:850px;
+    
+    padding-top: 10%;
+ 
+   
+}
+#image-container{
+   width:100%;
+   height: 500px;
+   position: relative;
+  
+    
+    
+}
+#subimgcontainer{
+    width: 25%;
+    height:500px;
+    display: flex;
+    position: absolute;
+    right: 10%;
+    flex-direction: column;
+  
+    justify-content: space-around;
+    
+}
+#two-text{
+    padding: 5%;
+}
+#feature{
+    font-size: 40px;
+font-family:'Crimson Text', serif;
+color: rgb(44, 43, 43);
+font-weight:bold;
+margin-top: 6%;
+}
+#completecard{
+    width:70%;
+    height:700px;
+    padding-top: 20%;
+    margin: auto;
+   
+    
+}
+#book1{
+    border: none;
+  background-color: #120647;
+  color:white;
+  border-radius: 4px;
+   width: 130px;
+   height:50px;
+   display: inline;
+   position: absolute;
+   bottom: 10%;
+   right:10%;
+}
+#bgvariant{
+    width: 100%;
+    height: 600px;
+   position: relative;
+
+}
+#three{
+    width: 100%;
+    height: 670px;
+    background-color: rgb(246, 246, 246);
+    position: absolute;
+    top: 260%;
+   
+    
+ 
+}
+#style1{
+    width: 200px;
+    height: 50px;
+   
+    
+    color: white;
+    padding: 6px;
+    background-color: #120647;
+    font-size: 14px;
+    border-radius: 2px;
+    border: none;
+}
+#style2{
+    width: 200px;
+    height: 50px;
+    border: none;
+    
+    background-color: rgb(52, 203, 125);
+    padding: 6px;
+    color: #120647;
+    font-size: 14px;
+    border-radius: 2px;
+}
+
